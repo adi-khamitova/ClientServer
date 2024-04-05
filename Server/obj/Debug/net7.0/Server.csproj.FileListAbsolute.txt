@@ -1,0 +1,15 @@
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Server/bin/Debug/net7.0/Server
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Server/bin/Debug/net7.0/Server.deps.json
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Server/bin/Debug/net7.0/Server.runtimeconfig.json
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Server/bin/Debug/net7.0/Server.dll
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Server/bin/Debug/net7.0/Server.pdb
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Server/obj/Debug/net7.0/Server.csproj.AssemblyReference.cache
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Server/obj/Debug/net7.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Server/obj/Debug/net7.0/Server.AssemblyInfoInputs.cache
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Server/obj/Debug/net7.0/Server.AssemblyInfo.cs
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Server/obj/Debug/net7.0/Server.csproj.CoreCompileInputs.cache
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Server/obj/Debug/net7.0/Server.dll
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Server/obj/Debug/net7.0/refint/Server.dll
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Server/obj/Debug/net7.0/Server.pdb
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Server/obj/Debug/net7.0/Server.genruntimeconfig.cache
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Server/obj/Debug/net7.0/ref/Server.dll
