@@ -1,0 +1,15 @@
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Client3/bin/Debug/net7.0/Client3
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Client3/bin/Debug/net7.0/Client3.deps.json
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Client3/bin/Debug/net7.0/Client3.runtimeconfig.json
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Client3/bin/Debug/net7.0/Client3.dll
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Client3/bin/Debug/net7.0/Client3.pdb
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Client3/obj/Debug/net7.0/Client3.csproj.AssemblyReference.cache
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Client3/obj/Debug/net7.0/Client3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Client3/obj/Debug/net7.0/Client3.AssemblyInfoInputs.cache
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Client3/obj/Debug/net7.0/Client3.AssemblyInfo.cs
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Client3/obj/Debug/net7.0/Client3.csproj.CoreCompileInputs.cache
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Client3/obj/Debug/net7.0/Client3.dll
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Client3/obj/Debug/net7.0/refint/Client3.dll
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Client3/obj/Debug/net7.0/Client3.pdb
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Client3/obj/Debug/net7.0/Client3.genruntimeconfig.cache
+/Users/adelahamitova/projects/SE/SE_lab03_Khamitova/Client3/obj/Debug/net7.0/ref/Client3.dll
